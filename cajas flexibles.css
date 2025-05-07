@@ -1,0 +1,119 @@
+.flexbox{
+	display: flex;
+	border: #969696;
+	background-color: aliceblue;
+	padding: 10px;
+	width: 25%;
+}
+#blanco{
+	padding: 20px;
+	margin: 10px;
+	background-color: antiquewhite;		
+}
+#rosado{
+	padding: 20px;
+	margin: 10px;
+	background-color: aquamarine;
+}
+#celeste{
+	padding: 20px;
+	margin: 10px;
+	background-color: aliceblue;
+}
+#azul{
+	padding: 20px;
+	margin: 10px;
+	background-color: aqua;
+}
+#rojo{
+	padding: 20px;
+	margin: 10px;
+	background-color: aquamarine		
+}
+#morado{
+	padding: 20px;
+	margin: 10px;
+	background-color: antiquewhite;		
+}
+#negro{
+	padding: 20px;
+	margin: 10px;
+	background-color: antiquewhite;		
+}
+.flexbox2{
+	display: flex;
+	border: 2px #1A84B0;
+	background:white;
+	padding: 10px;
+	width: 20px;
+}
+#Anaranjado{
+	padding: 20px;
+	margin: 20px;
+	background-color:orange;
+}
+#sky{
+	padding: 20px;
+	margin: 20px;
+	background-color:skyblue;
+}
+#Coral{
+	padding: 20px;
+	margin:20px;
+	background-color:Coral;
+}
+#aqua{
+	padding: 20px;
+	margin:20px;
+	background-color:aqua;
+}
+#amarillo{
+	padding: 20px;
+	margin: 20px;
+	background-color: yellow;
+}
+#verde{
+	padding: 20px;
+	margin: 20px;
+	background-color:green;
+}
+#morad{
+	padding: 20px;
+	margin: 20px;
+	background-color:purple;
+}
+#alfredo{
+	padding: 20px;
+	margin: 10px;
+	background-color:white;
+}
+#samuel{
+	padding: 20px;
+	margin: 10px;
+	background-color:skyblue;
+}
+#santiago{
+	padding: 20px;
+	margin: 10px;
+	background-color:pink;
+}
+#gerber{
+	padding: 20px;
+	margin: 10px;
+	background-color:aqua;
+}
+#josue{
+	padding: 20px;
+	margin: 10px;
+	background-color: yellow;
+}
+#kevin{
+	padding: 20px;
+	margin: 10px;
+	background-color:green;
+}
+#daniel{
+	padding: 20px;
+	margin: 10px;
+	background-color:purple;
+}

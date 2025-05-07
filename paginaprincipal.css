@@ -1,0 +1,40 @@
+nav{
+float:left;
+width:200px;
+}
+nav ul{
+margin:0px;
+padding:0px;
+}
+nav ul li{
+margin:5px;
+padding:10px;
+font-size:20px;
+border-radius:152px 304px 228px 152px;
+border-style:solid;
+border-width:3px;
+border-color:#2E09FD;
+}
+article:nth-child(odd){
+background-color:#8474DF;
+}
+article:nth-child(even){
+background-color:#D974DF;
+}
+section{
+float:right;
+width:520px
+}
+body{
+background-color:#E9E087;
+margin:36px auto;
+width:720px
+}
+article{
+margin-bottom:5px;
+	padding:10px;
+border-radius:10px 10px 10px 10px;
+border-style:solid;
+border-width:2px;
+border-color:#2E09FD;
+}

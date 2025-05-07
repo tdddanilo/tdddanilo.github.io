@@ -1,0 +1,72 @@
+.flexbox{
+	display: flex;
+	border: 2px #1A84B0;
+	background: #C17028;
+	padding: 10px;
+	width: 66% ;
+}
+#blanco{
+	padding: 20px;
+	margin: 20px;
+	background-color: white;
+}
+#blue{
+	padding: 20px;
+	margin: 20px;
+	background-color:blue;
+}
+#rosado{
+	padding: 20px;
+	margin: 20px;
+	background-color:pink;
+}
+#aqua{
+	padding: 20px;
+	margin:20px;
+	background-color:aqua;
+}
+#amarillo{
+	padding: 20px;
+	margin: 20px;
+	background-color: yellow;
+}
+#verde{
+	padding: 20px;
+	margin: 20px;
+	background-color:green;
+}
+#morado{
+	padding: 20px;
+	margin: 20px;
+	background-color:purple;
+}
+#Omar{
+	padding: 3px;
+	margin: 10px;
+	background-color:white;
+}
+#Nestor{
+	padding: 3px;
+	margin: 10px;
+	background-color:skyblue;
+}
+#Katherine{
+	padding: 3px;
+	margin: 10px;
+	background-color:pink;
+}
+#Genesis{
+	padding: 3px;
+	margin: 10px;
+	background-color:aqua;
+}
+#Danilo{
+	padding: 3px;
+	margin: 10px;
+	background-color: yellow;
+}
+#Veliz{
+	padding: 3px;
+	margin: 10px;
+	background-color:green;
+}
